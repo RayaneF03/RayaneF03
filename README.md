@@ -68,11 +68,11 @@ Além da programação, também atuo como **Designer Gráfica** e **Editora de V
 ---
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rayanefernandadossantos&show_icons=true&theme=radical&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RayaneF03&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanefernandadossantos&layout=compact&theme=radical&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneF03&layout=compact&theme=radical&hide_border=true)
 
-![Sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=rayanefernandadossantos&theme=radical&hide_border=true)
+![Sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=RayaneF03&theme=radical&hide_border=true)
 
 ---
 
