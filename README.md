@@ -41,16 +41,11 @@ Além da programação, também atuo como **Designer Gráfica** e **Editora de V
 
 **Design e Edição**
 
-**Design e Edição**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aftereffects,figma,canva" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ae,figma,canva" />
+  <img src="https://img.icons8.com/color/48/capcut.png" />
+  <img src="https://img.icons8.com/color/48/ibispaint.png" />
+  <img src="https://img.icons8.com/color/48/affinity.png" />
 </p>
 
 
