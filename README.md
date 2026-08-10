@@ -65,11 +65,33 @@ Além da programação, também atuo como **Designer Gráfica** e **Editora de V
 - 🎨 Criando identidades visuais e interfaces modernas
 - 🌱 Aprendendo constantemente novas tecnologias e boas práticas de desenvolvimento
 
+  ---
+
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RayaneF03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaneF03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneF03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+### 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RayaneF03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+</div>
+
+### 📈 Gráfico de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayaneF03&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições"/>
+
+</div>
 
 ---
 
