@@ -67,9 +67,9 @@ Além da programação, também atuo como **Designer Gráfica** e **Editora de V
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RayaneF03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RayaneF03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
