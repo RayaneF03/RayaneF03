@@ -68,12 +68,7 @@ Além da programação, também atuo como **Designer Gráfica** e **Editora de V
 ### 📊 Estatísticas
 
 <div align="center">
-
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=RayaneF03)
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayaneF03&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=RayaneF03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
