@@ -145,14 +145,6 @@ Acredito que um bom projeto vai além de funcionar: ele precisa proporcionar uma
 
 </div>
 
-### 📈 Minha atividade no GitHub
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RayaneF03&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
-
-</div>
-
 ---
 
 ## 🌱 Atualmente
