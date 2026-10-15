@@ -16,22 +16,6 @@
 
 ---
 
-# ✦ Oi, eu sou a Rayane! 💜
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full-Stack+em+forma%C3%A7%C3%A3o;Designer+Gr%C3%A1fica+%26+Editora+de+V%C3%ADdeo;Transformando+ideias+em+experi%C3%AAncias+digitais;Tecnologia+%2B+Criatividade+%E2%9C%A8" alt="Animação de apresentação" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=120&section=header" width="100%" alt="Banner decorativo"/>
-
-  [![GitHub](https://img.shields.io/badge/GitHub-RayaneF03-181717?style=for-the-badge&logo=github)](https://github.com/RayaneF03)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayanefernandadossantos/)
-  [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanefsantos45@gmail.com)
-
-</div>
-
----
-
 ## 💜 Sobre mim
 
 Olá! Sou estudante de **Desenvolvimento de Sistemas pelo SESI/SENAI**, apaixonada por tecnologia, design e criação de experiências digitais.
