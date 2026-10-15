@@ -10,7 +10,6 @@
 
   <img src="https://img.shields.io/badge/SESI%20%2B%20SENAI-Student-9B7EBD?style=for-the-badge&labelColor=1A1428" alt="Estudante SESI e SENAI"/>
   <img src="https://img.shields.io/badge/She-Creates-C4A7FF?style=for-the-badge&labelColor=1A1428" alt="She Creates"/>
-  <img src="https://komarev.com/ghpvc/?username=RayaneF03&style=for-the-badge&color=9B7EBD&label=PROFILE+VIEWS" alt="Visualizações do perfil"/>
 
 </div>
 
