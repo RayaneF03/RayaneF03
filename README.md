@@ -1,191 +1,231 @@
-# ✦ Oi, eu sou a Rayane! 💜
+# ☾ 𖹭 Oi, eu sou a Rayane!
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full-Stack+em+forma%C3%A7%C3%A3o;Designer+Gr%C3%A1fica+%26+Editora+de+V%C3%ADdeo;Transformando+ideias+em+experi%C3%AAncias+digitais;Tecnologia+%2B+Criatividade+%E2%9C%A8" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=C4A7FF&center=true&vCenter=true&width=600&lines=୨୧+Full-Stack+Developer+in+training;୨୧+Graphic+Designer+%26+Video+Editor;୨୧+Code%2C+creativity+%26+little+dreams;୨୧+Turning+ideas+into+digital+experiences" alt="Animação de apresentação"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=120&section=header" width="100%" alt="Banner decorativo"/>
+  <br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-RayaneF03-181717?style=for-the-badge&logo=github)](https://github.com/RayaneF03)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayanefernandadossantos/)
-  [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanefsantos45@gmail.com)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1428,35:49316B,70:9B7EBD,100:E5D5FF&height=160&section=header&text=rayane%20fernanda&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=technology%20%E2%80%A2%20design%20%E2%80%A2%20creativity&descAlignY=60&descSize=13" width="100%" alt="Banner roxinho aesthetic"/>
+
+  <br/>
+
+  <a href="https://github.com/RayaneF03">
+    <img src="https://img.shields.io/badge/GitHub-My%20little%20corner-C4A7FF?style=for-the-badge&logo=github&logoColor=1A1428" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rayanefernandadossantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-C4A7FF?style=for-the-badge&logo=linkedin&logoColor=1A1428" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rayanefsantos45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-C4A7FF?style=for-the-badge&logo=gmail&logoColor=1A1428" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  *୨୧ ── creating, learning & dreaming in purple ── ୨୧*
 
 </div>
 
 ---
 
-## 💜 Sobre mim
+## ୨୧・about me
 
-Olá! Sou estudante de **Desenvolvimento de Sistemas pelo SESI/SENAI**, apaixonada por tecnologia, design e criação de experiências digitais.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1428&height=2" width="100%" alt="Divisor"/>
+</div>
+
+Olá! Sou estudante de **Desenvolvimento de Sistemas pelo SESI/SENAI**, apaixonada por tecnologia, design e criação de experiências digitais. ♡
 
 Gosto de transformar ideias em projetos funcionais, unindo **programação, criatividade e design** para desenvolver soluções modernas, intuitivas e visualmente agradáveis.
 
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, aplicações Full-Stack, banco de dados, design gráfico, UI/UX e edição de vídeos. Também trabalho com criação de identidades visuais, materiais digitais e lojas virtuais.
 
-Acredito que um bom projeto vai além de funcionar: ele precisa proporcionar uma experiência agradável, resolver problemas e transmitir sua identidade.
+Acredito que os melhores projetos nascem quando **a lógica encontra a criatividade**. Meu objetivo é continuar aprendendo, explorar novas possibilidades e criar experiências digitais que tenham propósito e personalidade.
 
-- 💻 Estudando e desenvolvendo projetos de software.
-- 🎨 Criando identidades visuais e experiências digitais.
-- 🛍️ Trabalhando com lojas virtuais e e-commerce.
-- 🎬 Explorando a criatividade por meio da edição de vídeos.
+<div align="center">
+
+  `♡` code with purpose · design with love · learn every day `♡`
+
+</div>
+
+- ♡ Estudando e desenvolvendo projetos de software.
+- ✧ Criando identidades visuais e experiências digitais.
+- ୨୧ Trabalhando com lojas virtuais e e-commerce.
+- ☾ Explorando a criatividade por meio da edição de vídeos.
 - 🌱 Aprendendo constantemente e buscando novos desafios.
 
 ---
 
-## 🎯 Áreas de atuação
+## ୨୧・what I do
 
 <div align="center">
 
-| 💻 Tecnologia | 🎨 Criatividade |
+| <img src="https://img.shields.io/badge/01-Development-BB9AF7?style=flat-square" alt="01"/> | <img src="https://img.shields.io/badge/02-Creative%20Design-BB9AF7?style=flat-square" alt="02"/> |
 |:---:|:---:|
+| **Development** | **Creative Design** |
 | Desenvolvimento Web | Design Gráfico |
-| Front-end e Back-end | Identidade Visual |
-| Aplicações ASP.NET MVC | UI/UX Design |
+| Front-end & Back-end | Identidade Visual |
+| ASP.NET MVC & APIs | UI/UX Design |
 | Banco de Dados | Social Media Design |
-| Versionamento com Git | Edição de Vídeos |
-| Projetos com APIs | Prototipação de Interfaces |
-| E-commerce e Lojas Virtuais | Criação de Conteúdo Digital |
+| Git & Versionamento | Edição de Vídeos |
+| E-commerce | Prototipação de Interfaces |
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## ୨୧・my tech stack
 
-### 💻 Linguagens de programação
+*As ferramentas que uso para transformar ideias em realidade.* ✧
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/CSHTML-512BD4?style=for-the-badge&logo=razor&logoColor=white" alt="CSHTML"/>
-
-</div>
-
-### ⚙️ Frameworks, bibliotecas e banco de dados
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-</div>
-
-### 🔧 Desenvolvimento e versionamento
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-</div>
-
-### 🎨 Design gráfico, UI/UX e edição de vídeo
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
-<img src="https://img.shields.io/badge/ibisPaint-FA3C4C?style=for-the-badge&logoColor=white" alt="ibisPaint"/>
-<img src="https://img.shields.io/badge/Affinity-1B1B1B?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity"/>
-
-</div>
-
-### 🛍️ E-commerce, lojas virtuais e domínios
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Nuvemshop-2E7D32?style=for-the-badge&logoColor=white" alt="Nuvemshop"/>
-<img src="https://img.shields.io/badge/Registro.br-005A9C?style=for-the-badge&logoColor=white" alt="Registro.br"/>
-
-</div>
-
-### 🤖 Eletrônica e computação física
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+### ⟡ Languages & programming
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaneF03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneF03&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+<img src="https://img.shields.io/badge/HTML5-8B6BB1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-8B6BB1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-8B6BB1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-8B6BB1?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/C%23-8B6BB1?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/Python-8B6BB1?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/CSHTML-8B6BB1?style=for-the-badge&logo=dotnet&logoColor=white" alt="CSHTML"/>
 
 </div>
 
-### 🔥 Minha sequência de contribuições
+### ⟡ Frameworks, libraries & database
 
 <div align="center">
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=RayaneF03&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+<img src="https://img.shields.io/badge/React-6D568C?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-6D568C?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Bootstrap-6D568C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/.NET-6D568C?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/ASP.NET_MVC-6D568C?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+<img src="https://img.shields.io/badge/Entity_Framework-6D568C?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+<img src="https://img.shields.io/badge/SQL_Server-6D568C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+</div>
+
+### ⟡ Development tools & version control
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Visual_Studio-49316B?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/VS_Code-49316B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-49316B?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-49316B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-49316B?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Linux-49316B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+
+</div>
+
+### ⟡ Design, UI/UX & video editing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Photoshop-7B61A8?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/After_Effects-7B61A8?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
+<img src="https://img.shields.io/badge/Figma-7B61A8?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Canva-7B61A8?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/CapCut-7B61A8?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+<img src="https://img.shields.io/badge/ibisPaint-7B61A8?style=for-the-badge&logoColor=white" alt="ibisPaint"/>
+<img src="https://img.shields.io/badge/Affinity-7B61A8?style=for-the-badge&logo=affinity&logoColor=white" alt="Affinity"/>
+
+</div>
+
+### ⟡ E-commerce, stores & domains
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nuvemshop-49316B?style=for-the-badge&logoColor=white" alt="Nuvemshop"/>
+<img src="https://img.shields.io/badge/Registro.br-49316B?style=for-the-badge&logoColor=white" alt="Registro.br"/>
+
+</div>
+
+### ⟡ Electronics & physical computing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arduino-49316B?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-49316B?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 
 </div>
 
 ---
 
-## 🌱 Atualmente
+## ୨୧・my GitHub corner
 
-- 🎓 Cursando o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas pelo SESI/SENAI.
-- 💻 Desenvolvendo projetos para fortalecer meu portfólio.
-- 🌐 Aprimorando minhas habilidades em desenvolvimento Full-Stack.
-- 🎨 Criando identidades visuais, interfaces e materiais digitais.
-- 🛍️ Trabalhando com personalização de lojas virtuais na Nuvemshop.
-- 📚 Aprendendo novas tecnologias e boas práticas de programação.
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RayaneF03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1428&title_color=C4A7FF&icon_color=BB9AF7&text_color=E5D5FF&include_all_commits=true" height="175" alt="GitHub stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneF03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1428&title_color=C4A7FF&text_color=E5D5FF" height="175" alt="Most used languages"/>
+
+</div>
+
+### ✧ Contribution streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=RayaneF03&theme=tokyonight&hide_border=true&background=1A1428&ring=BB9AF7&fire=C4A7FF&currStreakLabel=C4A7FF&sideLabels=E5D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A99BC8" width="75%" alt="GitHub contribution streak"/>
+
+</div>
+
+### ✧ Activity graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RayaneF03&bg_color=1A1428&color=E5D5FF&line=BB9AF7&point=FFFFFF&area=true&area_color=49316B&hide_border=true&custom_title=My%20GitHub%20Activity" width="100%" alt="GitHub activity graph"/>
+
+</div>
 
 ---
 
-## 💌 Vamos conversar?
+## ୨୧・currently
+
+<div align="center">
+
+| | What I'm doing |
+|:---:|---|
+| 🎓 | Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas — SESI/SENAI |
+| 💻 | Desenvolvendo projetos para meu portfólio |
+| 🌐 | Aprimorando minhas habilidades Full-Stack |
+| 🎨 | Criando identidades visuais e interfaces |
+| 🛍️ | Personalizando lojas virtuais na Nuvemshop |
+| 🌱 | Aprendendo novas tecnologias e boas práticas |
+
+</div>
+
+---
+
+## ୨୧・let's connect ♡
 
 Estou sempre aberta a conhecer pessoas, compartilhar conhecimentos e participar de projetos que me permitam crescer profissionalmente.
 
-Se você também acredita na união entre **tecnologia, criatividade e inovação**, vamos nos conectar!
+Se você também ama a união entre **tecnologia, criatividade e inovação**, vamos nos conectar!
 
 <div align="center">
 
   <a href="https://github.com/RayaneF03">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github" alt="Meu GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-My%20projects-C4A7FF?style=for-the-badge&logo=github&logoColor=1A1428" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/rayanefernandadossantos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="Meu LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-C4A7FF?style=for-the-badge&logo=linkedin&logoColor=1A1428" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:rayanefsantos45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu e-mail"/>
+    <img src="https://img.shields.io/badge/Email-Say%20hello-C4A7FF?style=for-the-badge&logo=gmail&logoColor=1A1428" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=RayaneF03&style=for-the-badge&color=BB9AF7&label=VISITAS+AO+PERFIL" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=RayaneF03&style=flat-square&color=49316B&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
   <br/><br/>
 
-  **Obrigada por visitar meu perfil! 💜**
+  *୨୧ obrigada por visitar meu cantinho! ♡*
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5D5FF,50:9B7EBD,100:1A1428&height=130&section=footer" width="100%" alt="Banner roxo de encerramento"/>
 
 </div>
