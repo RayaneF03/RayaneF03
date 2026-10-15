@@ -18,7 +18,7 @@
 
 ## ୨୧ About me
 
-```javascript
+javascript
 const rayane = {
   name: "Rayane Fernanda dos Santos",
   location: "Brazil 🇧🇷",
@@ -134,4 +134,4 @@ Currently developing my skills in web development, software engineering, and vis
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5D5FF,45:9B7EBD,75:49316B,100:1A1428&height=100&section=footer" width="100%" alt="Rodapé decorativo roxo"/>
 
 </div>
-```
+
