@@ -181,13 +181,7 @@ Se você também acredita na união entre **tecnologia, criatividade e inovaçã
   </a>
 
   <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=RayaneF03&style=for-the-badge&color=BB9AF7&label=VISITAS+AO+PERFIL" alt="Contador de visitas"/>
-
-  <br/><br/>
-
-  **Obrigada por visitar meu perfil! 💜**
-
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
 
 </div>
